@@ -1,2 +1,2 @@
 # 7LI7W
-Learing &lt;Seven Languages in Seven Weeks>
+Learing ***Seven Languages in Seven Weeks***
